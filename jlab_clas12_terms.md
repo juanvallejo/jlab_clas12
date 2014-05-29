@@ -1,6 +1,6 @@
 ***CLAS12***
 
-- **Drift Chambers** System that measures the *momentum of charged particles* emerging from the target.
+- **Drift Chambers** System that measures the *momentum of charged particles* emerging from the target. Consists of regions containing two superlayers each. Each superlayer contains 6 layers, each one containing 112 wires.
 - **Central Time-Of-Flight** (CTOF) Identifies particles given at least a 60ps timing resolution.
 - **High Threshold Cherenkov Counter** (HTCC) One of the detector systems of the CLAS12 spectrometer. Used to generate a fast trigger signal in experiments with an electron beam.
 - **Solenoid** Self-shielded super-conducting magnet around the beam line to produce a field primary in the beam direction.
