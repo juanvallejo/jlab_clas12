@@ -1,4 +1,3 @@
-K7434-2B2JE-6QJPH-RJDV6-UV9WA
 clas_12 object structure
 
 **Return hashmap array containing**
